@@ -29,8 +29,6 @@ This project implements image colorization using two approaches: GANs (Generativ
 - `test_results_epoch_1.png` to `test_results_epoch_10.png` - Training progress
 - `training_metrics.png` - Performance visualization
 
-### Data
-- `landscape Images/` - Training dataset directory
 
 ## Model Details
 
