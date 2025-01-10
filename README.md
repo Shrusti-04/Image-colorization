@@ -26,7 +26,6 @@ This project implements image colorization using two approaches: GANs (Generativ
 - `discriminator_epoch_1.h5`, `discriminator_epoch_2.h5` - Discriminator checkpoints
 
 ### Results
-- `Colorization_Results/` - Output directory
 - `test_results_epoch_1.png` to `test_results_epoch_10.png` - Training progress
 - `training_metrics.png` - Performance visualization
 
